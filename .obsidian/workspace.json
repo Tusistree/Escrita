@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas.md",
+                "file": "Fontes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas"
+              "title": "Fontes"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "7aba2931c49e646f",
   "lastOpenFiles": [
-    "Notas.md"
+    "Notas.md",
+    "Fontes.md"
   ]
 }
