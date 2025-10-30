@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fontes.md",
+                "file": "Dicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fontes"
+              "title": "Dicas"
             }
           }
         ]
@@ -171,7 +171,10 @@
   },
   "active": "7aba2931c49e646f",
   "lastOpenFiles": [
-    "Notas.md",
-    "Fontes.md"
+    "Cursos/Como Escrever e Publicar um Livro/Notas.md",
+    "Dicas.md",
+    "Fontes.md",
+    "Cursos/Como Escrever e Publicar um Livro",
+    "Cursos"
   ]
 }
