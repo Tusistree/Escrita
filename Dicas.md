@@ -9,7 +9,7 @@ Gancho entre capítulos;
 
 # Chuck Palahniuk (o que eu notei)
 
-Descrever lugares de forma emotiva e como se tivessem personalidade, mas nunca objetiva, seja dramática, misteriosa ou etc;
+Descrever lugares de forma emotiva e como se tivessem personalidade, mas nunca de forma objetiva. Seja dramático, misterioso ou etc nas descrições;
 Leitores parecem gostar quando escritores brincam com o senso comum ou ideias já pré-estabelecidas, seja com humor ou seriedade;
 Usar frases de efeito, mas somente se for original sua e não cafona (pesquisar se algum filosofo já pensou nisso ao fazer uma);
 .
